@@ -1,5 +1,5 @@
 ## LSM4199 Honours Project in Life Sciences
-Statistical/ Machine Learning Identifies a Novel Gene Signature that Predicts Breast Cancer Survival using a Risk Score Model
+## Statistical/ Machine Learning Identifies a Novel Gene Signature that Predicts Breast Cancer Survival using a Risk Score Model
 Breast cancer is the one of the most prevalent cancers globally and bears a
 substantial disease burden. Given the heterogeneity of breast cancer, predicting breast
 cancer survival is important to facilitate personalised clinical decisions and treatments. In
